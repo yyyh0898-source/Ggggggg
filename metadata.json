@@ -1,0 +1,6 @@
+{
+  "name": "LeviPack Freecam AAR Studio (v1.26.52)",
+  "description": "Professional Freecam .levipack & Android AAR Library Generator with 60 FPS frame synchronization, smooth interpolation, customizable FOV, memory footprint optimizer, and live 3D simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
